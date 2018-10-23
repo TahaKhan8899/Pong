@@ -1,5 +1,4 @@
-## Assignment 1
-### README for Pong, Elm Assignment #2
+## README for Pong, Elm Assignment #2
 Simple version of the classic arcade game, Pong!
 
 #### Base Features
